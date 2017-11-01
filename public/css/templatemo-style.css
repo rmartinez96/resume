@@ -358,10 +358,9 @@ h3.profile-title {
   text-align: center;
 }
 @media screen and (max-width: 992px) {
-  .responsive-header .main-navigation {
+  .nuheader .main-navigation {
     margin-top: 10px;
-    display: none;
-  }
+    display: none;  }
 }
 @media screen and (max-width: 992px) {
   .responsive-header p {
