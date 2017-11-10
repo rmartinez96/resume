@@ -326,43 +326,43 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .design {
-  	width: 75%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+  	width: 80%;
+  	-moz-animation: design 2s ease;
+  	-webkit-animation: design 2s ease;
 }
 .csshtml {
-  	width: 50%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+  	width: 55%;
+  	-moz-animation: csshtml 2s ease;
+  	-webkit-animation: csshtml 2s ease;
 }
 .javas {
-  	width: 55%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+  	width: 50%;
+  	-moz-animation: javas 2s ease;
+  	-webkit-animation: javas 2s ease;
 }
 .Cplusplus {
-  	width: 70%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+  	width: 75%;
+  	-moz-animation: Cplusplus 2s ease;
+  	-webkit-animation: Cplusplus 2s ease;
 }
 .cc {
-  	width: 40%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+  	width: 60%;
+  	-moz-animation: cc 2s ease;
+  	-webkit-animation: cc 2s ease;
 }
 .VLSIdesign {
   	width: 55%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  	-moz-animation: VLSIdesign 2s ease;
+  	-webkit-animation: VLSIdesign 2s ease;
 }
 
 @-moz-keyframes design {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 80%;  }
 }
 @-moz-keyframes csshtml {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 55%;  }
 }
 @-moz-keyframes javas {
   0%   { width: 0px;  }
@@ -370,24 +370,24 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes Cplusplus {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 75%;  }
 }
 @-moz-keyframes cc {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 60%;  }
 }
 @-moz-keyframes VLSIdesign {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 55%;  }
 }
 
 @-webkit-keyframes design {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 80%;  }
 }
 @-webkit-keyframes csshtml {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 55%;  }
 }
 @-webkit-keyframes javas {
   0%   { width: 0px;  }
@@ -395,15 +395,15 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes Cplusplus {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 75%;  }
 }
 @-webkit-keyframes cc {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 60%;  }
 }
 @-webkit-keyframes VLSIdesign {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 55%;  }
 }
 
 /* ------------------------------------------------------------------ */
