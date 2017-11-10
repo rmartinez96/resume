@@ -341,7 +341,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: javas 2s ease;
 }
 .Cplusplus {
-  	width: 75%;
+  	width: 70%;
   	-moz-animation: Cplusplus 2s ease;
   	-webkit-animation: Cplusplus 2s ease;
 }
@@ -370,7 +370,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes Cplusplus {
   0%   { width: 0px;  }
-  100% { width: 75%;  }
+  100% { width: 70%;  }
 }
 @-moz-keyframes cc {
   0%   { width: 0px;  }
@@ -395,7 +395,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes Cplusplus {
   0%   { width: 0px;  }
-  100% { width: 75%;  }
+  100% { width: 70%;  }
 }
 @-webkit-keyframes cc {
   0%   { width: 0px;  }
