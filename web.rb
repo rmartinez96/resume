@@ -12,3 +12,9 @@ get '/portfolio' do
 	erb :portfolio
 	
 end
+
+get '/test' do
+
+	erb :portfolio
+	
+end
