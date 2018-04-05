@@ -15,6 +15,6 @@ end
 
 get '/test' do
 
-	erb :portfolio
+	erb :test
 	
 end
